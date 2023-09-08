@@ -1,8 +1,8 @@
 # **Project 1: Random Password Generator with Tkinter GUI in Python**
 
-**Internship Project at CodeCalcuss**
+**Internship Project at CodeClause**
 
-A Python project that generates secure random passwords with a user-friendly Tkinter GUI. This project is part of my Python development internship at CodeCalcuss.
+A Python project that generates secure random passwords with a user-friendly Tkinter GUI. This project is part of my Python development internship at CodeClause.
 
 ## Features
 
