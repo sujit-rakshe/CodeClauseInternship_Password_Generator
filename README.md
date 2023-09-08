@@ -17,7 +17,7 @@ A Python project that generates secure random passwords with a user-friendly Tki
 
 ## Demo Video
 
-[Watch on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch on YouTube](https://youtu.be/KIyL64pVhgA)
 
 ## Usage
 
